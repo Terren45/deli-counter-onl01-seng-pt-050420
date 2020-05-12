@@ -1,3 +1,2 @@
- def line
-   
+def line
 end
