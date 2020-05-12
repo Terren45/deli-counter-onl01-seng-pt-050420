@@ -1,5 +1,5 @@
  def line(customers) 
-   puts "The line is currently empty."
+   if 
 end
 
 def take_a_number(name, number)
