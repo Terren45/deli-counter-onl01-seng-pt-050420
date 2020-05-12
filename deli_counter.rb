@@ -1,4 +1,4 @@
- def line(customers) 
+ def line() 
    if 
 end
 
